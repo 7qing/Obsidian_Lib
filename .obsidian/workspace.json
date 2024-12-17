@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer system/内存寻址.md",
+                "file": "computer system/进程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内存寻址"
+              "title": "进程"
             }
           }
         ]
@@ -179,6 +179,7 @@
   "active": "f182669fefb221b0",
   "lastOpenFiles": [
     "computer system/内存寻址.md",
+    "computer system/进程.md",
     "computer system/欢迎.md",
     "computer system/未命名.canvas",
     "computer system/未命名 1.canvas"

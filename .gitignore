@@ -1,1 +1,4 @@
-.obsidian/
+# 忽略工作空间 这玩意天天变
+.obsidian/workspace
+# 回收站里的大概是没用的吧
+.trash/

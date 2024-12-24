@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 327.5
   },
   "right": {
     "id": "05ba47d1577e6ed0",
@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +175,12 @@
   },
   "active": "f182669fefb221b0",
   "lastOpenFiles": [
-    "computer system/图片/Page_table_entry.png",
+    "computer system/内存寻址之间的关系.canvas",
     "computer system/内存寻址.md",
+    "computer system/图片/Virtual_memory.png",
+    "computer system/图片/Virtual_memory.png.crdownload",
+    "computer system/图片/多重转换.png",
+    "computer system/图片/Page_table_entry.png",
     "computer system/图片/Page_table_entry.png.crdownload",
     "computer system/进程.md",
     "computer system/图片/Page_directory_entry.png",
@@ -187,8 +191,6 @@
     "computer system/图片/linux 主要段.png",
     "computer system/图片/代码段、数据段和系统段描述符格式.png",
     "computer system/图片/数据段描述符.png",
-    "Pasted image 20241222190056.png",
-    "computer system/图片/段描述符通用格式.png",
     "7qing_os/欢迎.md",
     "computer system/欢迎.md",
     "computer system/创建链接.md",
@@ -197,7 +199,6 @@
     "未命名.canvas",
     "2024-12-21.md",
     "conflict-files-obsidian-git.md",
-    "computer system/未命名.canvas",
     "computer system/未命名 1.canvas"
   ]
 }

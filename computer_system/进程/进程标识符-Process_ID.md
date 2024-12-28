@@ -17,7 +17,7 @@ pid_t getppid(void);
 
 由于循环使用PID编号，内核必须通过管理一个pidmap-array位图来表示当前已分配的PID号和闲置的PID号。因为一个页框包含32768个位，所以在32位体系结构中pidmap-array位图存放在一个单独的页中。然而，在64位体系结构中，当内核分配了超过当前位图大小的PID号时，需要为PID位图增加更多的页。系统会一直保存这些页不被释放。
 
-对于pid的分配，是在[copy_process()]()过程中完成的：
+对于pid的分配，是在[`copy_process()`](/computer_system/进程/创建进程#`copy_process`)过程中完成的：
 ```c
 static struct task_struct *copy_process(unsigned long clone_flags,
 					unsigned long stack_start,

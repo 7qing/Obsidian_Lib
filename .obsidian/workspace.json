@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9b6113d7d95953b7",
+        "id": "8955b6159087e053",
         "type": "tabs",
         "children": [
           {
-            "id": "d47e400ffb2264ba",
+            "id": "290f50168f234e59",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "computer_system/进程/创建进程.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "创建进程"
             }
           }
         ]
@@ -169,22 +173,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d47e400ffb2264ba",
+  "active": "290f50168f234e59",
   "lastOpenFiles": [
     "computer_system/进程/进程标识符-Process_ID.md",
-    "computer_system/进程/进程概述.md",
-    "computer_system/进程/进程标识符-Process.md",
-    "computer_system/进程/进程切换.md",
+    "computer_system/进程/thread_info.md",
     "computer_system/进程/创建进程.md",
     "computer_system/other/gcc特殊用法.md",
-    "computer_system/进程/thread_info.md",
-    "computer_system/进程/进程标识符(Process.md",
+    "computer_system/进程/进程标识符-Process_ID/alloc_pid().md",
+    "computer_system/进程/进程切换.md",
+    "computer_system/进程/进程标识符-Process_ID",
+    "computer_system/进程/进程状态.md",
     "computer_system/进程/进程描述符.md",
+    "computer_system/进程/进程概述.md",
+    "computer_system/图片/do_fork.jpg",
+    "computer_system/图片/do_fork.jpg.crdownload",
+    "computer_system/进程/进程标识符-Process.md",
+    "computer_system/进程/进程标识符(Process.md",
     "computer_system/内存寻址之间的关系.canvas",
     "computer_system/进程/进程标识符（Process.md",
     "computer_system/进程.md",
     "computer_system/内存寻址.md",
-    "computer_system/进程/进程状态.md",
     "computer_system/进程/未命名",
     "computer_system/进程",
     "computer_system/图片/进程切换.png",
@@ -204,12 +212,9 @@
     "computer_system/图片/process_schedule.jpg",
     "computer_system/图片/process_schedule.jpg.crdownload",
     "computer_system/图片/Virtual_memory.png",
-    "computer_system/图片/thread_info与内核栈的关系.png",
-    "computer_system/图片/thread_info与内核栈的关系.png.crdownload",
     "().md",
     "computer_system/图片/Linux进程描述符.md",
     "computer_system/图片.md",
-    "computer_system/other",
     "computer_system/图片/linux.md",
     "computer.md",
     "7qing_os/欢迎.md",
@@ -218,7 +223,6 @@
     "computer system/未命名.md",
     "未命名.canvas",
     "2024-12-21.md",
-    "conflict-files-obsidian-git.md",
     "computer system/未命名 1.canvas"
   ]
 }

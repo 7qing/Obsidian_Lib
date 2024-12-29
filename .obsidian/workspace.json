@@ -155,7 +155,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6914451adcbd9173",
+  "active": "9273c0e62c583d74",
   "lastOpenFiles": [
     "computer_system/图片/MMU.png",
     "computer_system/中断和异常.md",

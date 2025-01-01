@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "showRibbon": false
+  "showRibbon": false,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true
 }

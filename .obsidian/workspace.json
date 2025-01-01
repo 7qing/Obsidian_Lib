@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8955b6159087e053",
+        "id": "11f34dceb1764099",
         "type": "tabs",
         "children": [
           {
-            "id": "290f50168f234e59",
+            "id": "2a2013407f1f780c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_system/中断和异常.md",
+                "file": "computer_system/中断和异常/中断和异常.md",
                 "mode": "source",
                 "source": false
               },
@@ -40,7 +40,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -79,14 +79,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_system/中断和异常.md"
+                "file": "computer_system/中断和异常/中断和异常.md"
               },
               "icon": "lucide-list",
               "title": "中断和异常 的大纲"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -174,12 +174,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9273c0e62c583d74",
+  "active": "0fabe165b43596c2",
   "lastOpenFiles": [
+    "computer_system/图片/中断描述符(struct irq_desc)，中断控制器描述符(struct irq_chip)，中断服务例程(struct irqaction)的关系.jpg",
+    "computer_system/图片/中断描述符(struct irq_desc)，中断控制器描述符(struct irq_chip)，中断服务例程(struct irqaction)的关系.jpg.crdownload",
+    "computer_system/图片/中断描述符.jpg",
+    "computer_system/图片/中断描述符.jpg.crdownload",
+    "computer_system/图片/中断处理过程.jpg",
+    "computer_system/图片/中断处理过程.jpg.crdownload",
+    "computer_system/图片/可编程中断控制器.jpg",
+    "computer_system/中断和异常/中断和异常.md",
+    "computer_system/图片/可编程中断控制器.jpg.crdownload",
+    "computer_system/中断和异常",
     "computer_system/图片/MMU.png",
-    "computer_system/中断和异常.md",
     "computer_system/进程/进程描述符.md",
-    "computer_system/未命名",
+    "computer_system/中断和异常",
     "computer_system/进程/进程状态.md",
     "computer_system/进程/thread_info.md",
     "computer_system/进程/进程切换.md",
@@ -198,23 +207,14 @@
     "computer_system/进程/进程标识符（Process.md",
     "computer_system/进程.md",
     "computer_system/内存寻址.md",
-    "computer_system/未命名",
+    "computer_system/中断和异常",
     "computer_system/进程",
     "computer_system/图片/进程切换.png",
-    "(/computer_system/other",
-    "(/computer_system",
-    "(",
-    "computer_system/other",
     "computer_system/图片/switch_to().png",
     "computer_system/图片/linux主要段.png",
     "computer_system/图片/Linux进程描述符.png",
     "computer_system/图片/多重转换.png",
-    "computer_system/图片/转换图.png",
-    "computer_system/图片/段描述符通用格式.png",
-    "computer_system/图片/进程切换.png.crdownload",
     "7qing_os/heap.md",
-    "computer_system/图片/process_schedule.jpg",
-    "computer_system/图片/Virtual_memory.png",
     "().md",
     "computer_system/图片/Linux进程描述符.md",
     "computer_system/图片.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_system/中断和异常/中断和异常.md",
+                "file": "computer_system/中断和异常/中断发生时的情况.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中断和异常"
+              "title": "中断发生时的情况"
             }
           }
         ]
@@ -79,14 +79,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_system/中断和异常/中断和异常.md"
+                "file": "computer_system/中断和异常/中断发生时的情况.md"
               },
               "icon": "lucide-list",
-              "title": "中断和异常 的大纲"
+              "title": "中断发生时的情况 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,8 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fabe165b43596c2",
+  "active": "2a2013407f1f780c",
   "lastOpenFiles": [
+    "computer_system/中断和异常/中断和异常.md",
+    "computer_system/中断和异常/中断发生时的情况.md",
+    "computer_system/图片/中断汇编与c语言.jpg",
+    "computer_system/图片/中断汇编与c语言.jpg.crdownload",
+    "computer_system/图片/初始化中断顺序表.jpg",
+    "computer_system/图片/初始化中断顺序表.jpg.crdownload",
     "computer_system/图片/中断描述符(struct irq_desc)，中断控制器描述符(struct irq_chip)，中断服务例程(struct irqaction)的关系.jpg",
     "computer_system/图片/中断描述符(struct irq_desc)，中断控制器描述符(struct irq_chip)，中断服务例程(struct irqaction)的关系.jpg.crdownload",
     "computer_system/图片/中断描述符.jpg",
@@ -183,7 +188,6 @@
     "computer_system/图片/中断处理过程.jpg",
     "computer_system/图片/中断处理过程.jpg.crdownload",
     "computer_system/图片/可编程中断控制器.jpg",
-    "computer_system/中断和异常/中断和异常.md",
     "computer_system/图片/可编程中断控制器.jpg.crdownload",
     "computer_system/中断和异常",
     "computer_system/图片/MMU.png",
@@ -207,13 +211,8 @@
     "computer_system/进程/进程标识符（Process.md",
     "computer_system/进程.md",
     "computer_system/内存寻址.md",
-    "computer_system/中断和异常",
-    "computer_system/进程",
     "computer_system/图片/进程切换.png",
     "computer_system/图片/switch_to().png",
-    "computer_system/图片/linux主要段.png",
-    "computer_system/图片/Linux进程描述符.png",
-    "computer_system/图片/多重转换.png",
     "7qing_os/heap.md",
     "().md",
     "computer_system/图片/Linux进程描述符.md",

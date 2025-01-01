@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_system/中断和异常/中断发生时的情况.md",
+                "file": "computer_system/中断和异常/中断和异常.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "中断发生时的情况"
+              "title": "中断和异常"
             }
           }
         ]
@@ -79,13 +79,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_system/中断和异常/中断发生时的情况.md"
+                "file": "computer_system/中断和异常/中断和异常.md"
               },
               "icon": "lucide-list",
-              "title": "中断发生时的情况 的大纲"
+              "title": "中断和异常 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -173,10 +174,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a2013407f1f780c",
+  "active": "0fabe165b43596c2",
   "lastOpenFiles": [
-    "computer_system/中断和异常/中断和异常.md",
     "computer_system/中断和异常/中断发生时的情况.md",
+    "computer_system/中断和异常/中断和异常.md",
     "computer_system/图片/中断汇编与c语言.jpg",
     "computer_system/图片/中断汇编与c语言.jpg.crdownload",
     "computer_system/图片/初始化中断顺序表.jpg",

@@ -85,11 +85,12 @@
               "title": "中断发生时的情况 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 210.5
   },
   "right": {
     "id": "05ba47d1577e6ed0",
@@ -160,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,13 +171,25 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
   "active": "2a2013407f1f780c",
   "lastOpenFiles": [
-    "computer_system/中断和异常/中断和异常.md",
+    "computer_system/图片/tasklet.jpg",
+    "computer_system/图片/tasklet.jpg.crdownload",
+    "computer_system/other/gcc特殊用法.md",
     "computer_system/中断和异常/中断发生时的情况.md",
+    "computer_system/中断和异常/中断和异常.md",
+    "computer_system/图片/save_all.jpg",
+    "computer_system/图片/save_all.jpg.crdownload",
+    "computer_system/内存寻址.md",
+    "().md",
+    "computer_system/优秀资源推荐.canvas",
+    "computer_system/图片/LKM.svg",
+    "computer_system/图片/未确认 364129.crdownload",
+    "computer_system/进程/thread_info.md",
     "computer_system/图片/中断汇编与c语言.jpg",
     "computer_system/图片/中断汇编与c语言.jpg.crdownload",
     "computer_system/图片/初始化中断顺序表.jpg",
@@ -192,36 +205,25 @@
     "computer_system/中断和异常",
     "computer_system/图片/MMU.png",
     "computer_system/进程/进程描述符.md",
-    "computer_system/中断和异常",
     "computer_system/进程/进程状态.md",
-    "computer_system/进程/thread_info.md",
     "computer_system/进程/进程切换.md",
     "computer_system/进程/创建进程.md",
     "computer_system/进程/进程标识符-Process_ID.md",
     "computer_system/进程/进程概述.md",
     "(/computer_system/other/gcc特殊用法.md",
     "computer_system/进程/进程标识符-Process_ID/alloc_pid().md",
-    "computer_system/other/gcc特殊用法.md",
-    "computer_system/进程/进程标识符-Process_ID",
     "computer_system/图片/do_fork.jpg",
-    "computer_system/图片/do_fork.jpg.crdownload",
     "computer_system/进程/进程标识符-Process.md",
     "computer_system/进程/进程标识符(Process.md",
-    "computer_system/内存寻址之间的关系.canvas",
     "computer_system/进程/进程标识符（Process.md",
     "computer_system/进程.md",
-    "computer_system/内存寻址.md",
-    "computer_system/图片/进程切换.png",
-    "computer_system/图片/switch_to().png",
     "7qing_os/heap.md",
-    "().md",
     "computer_system/图片/Linux进程描述符.md",
     "computer_system/图片.md",
     "computer_system/图片/linux.md",
     "computer.md",
     "7qing_os/欢迎.md",
     "computer system/欢迎.md",
-    "computer system/创建链接.md",
     "未命名.canvas",
     "computer system/未命名 1.canvas"
   ]

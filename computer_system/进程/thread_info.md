@@ -3,17 +3,23 @@ Linux通过slab动态生成task_struct，那么在栈顶或栈底创建新的结
 
 ```c
 struct thread_info {
-	struct task_struct	*task;		//主要的进程描述符
-	struct exec_domain	*exec_domain;
-	__u32			flags;		
-	__u32			status;		// 线程同步flags
-	__u32			cpu;		//当前cpu
-	int			preempt_count;
+	struct task_struct	*task;		/* main task structure */
+	struct exec_domain	*exec_domain;	/* execution domain */
+	__u32			flags;		/* low level flags */
+	__u32			status;		/* thread synchronous flags */
+	__u32			cpu;		/* current CPU */
+	int			preempt_count;	/* 0 => preemptable,
+						   <0 => BUG */
 	mm_segment_t		addr_limit;
 	struct restart_block    restart_block;
 	void __user		*sysenter_return;
-	unsigned int		sig_on_uaccess_error:1;
-	unsigned int		uaccess_err:1;
+#ifdef CONFIG_X86_32
+	unsigned long           previous_esp;   /* ESP of the previous stack in
+						   case of nested (IRQ) stacks
+						*/
+	__u8			supervisor_stack[0];
+#endif
+	int			uaccess_err;
 };
 ```
 

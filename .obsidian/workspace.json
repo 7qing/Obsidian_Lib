@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer_system/内核同步.md",
+                "file": "computer_system/进程/进程描述符.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "内核同步"
+              "title": "进程描述符"
             }
           }
         ],
@@ -94,14 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer_system/内核同步.md"
+                "file": "computer_system/进程/进程描述符.md"
               },
               "icon": "lucide-list",
-              "title": "内核同步 的大纲"
+              "title": "进程描述符 的大纲"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,11 +189,21 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0fabe165b43596c2",
+  "active": "6914451adcbd9173",
   "lastOpenFiles": [
+    "computer_system/内存管理",
+    "computer_system/进程/进程状态.md",
+    "computer_system/进程/进程标识符-Process_ID.md",
+    "computer_system/进程/进程概述.md",
+    "computer_system/优秀资源推荐.canvas",
+    "computer_system/进程/进程描述符.md",
+    "computer_system/进程/thread_info.md",
     "computer_system/进程/创建进程.md",
     "computer_system/进程/进程切换.md",
-    "computer_system/进程/thread_info.md",
+    "computer_system/图片/MMU.png",
+    "computer_system/图片/Page_directory_entry.png",
+    "computer_system/内存寻址.md",
+    "cs",
     "computer_system/内核同步.md",
     "computer_system/图片/抢占式内核示意图.png",
     "computer_system/图片/抢占式内核示意图.png.crdownload",
@@ -207,9 +216,7 @@
     "computer_system/other/gcc特殊用法.md",
     "computer_system/图片/save_all.jpg",
     "computer_system/图片/save_all.jpg.crdownload",
-    "computer_system/内存寻址.md",
     "().md",
-    "computer_system/优秀资源推荐.canvas",
     "computer_system/图片/LKM.svg",
     "computer_system/图片/未确认 364129.crdownload",
     "computer_system/图片/中断汇编与c语言.jpg",
@@ -218,14 +225,7 @@
     "computer_system/图片/初始化中断顺序表.jpg.crdownload",
     "computer_system/图片/中断描述符(struct irq_desc)，中断控制器描述符(struct irq_chip)，中断服务例程(struct irqaction)的关系.jpg",
     "computer_system/图片/中断描述符(struct irq_desc)，中断控制器描述符(struct irq_chip)，中断服务例程(struct irqaction)的关系.jpg.crdownload",
-    "computer_system/图片/中断描述符.jpg",
     "computer_system/图片/中断描述符.jpg.crdownload",
-    "computer_system/图片/中断处理过程.jpg",
-    "computer_system/图片/中断处理过程.jpg.crdownload",
-    "computer_system/进程/进程描述符.md",
-    "computer_system/进程/进程状态.md",
-    "computer_system/进程/进程标识符-Process_ID.md",
-    "computer_system/进程/进程概述.md",
     "(/computer_system/other/gcc特殊用法.md",
     "computer_system/进程/进程标识符-Process_ID/alloc_pid().md",
     "computer_system/进程/进程标识符-Process.md",
